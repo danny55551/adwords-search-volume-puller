@@ -6,4 +6,5 @@ Credentials required:
 - Refresh Token
 - Developer Token
 - Client Customer ID  
+
 Full details on how to acquire the above can be found at https://www.blueclaw.co.uk/2020/04/09/find-keyword-search-volumes-for-free-using-python-and-the-adwords-api/
