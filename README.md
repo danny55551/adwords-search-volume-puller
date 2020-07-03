@@ -1,5 +1,6 @@
 # adwords-search-volume-puller
 Python script to pull search volumes for inserted keywords using the google adwords api. Ideally designed to be used with many keywords from an excel file for example, however 3 test terms are currently used in the script.  
+
 Credentials required:  
 - Client ID
 - Client Secret
